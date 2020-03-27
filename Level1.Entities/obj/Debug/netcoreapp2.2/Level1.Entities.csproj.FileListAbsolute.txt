@@ -1,0 +1,8 @@
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\bin\Debug\netcoreapp2.2\Level1.Entities.deps.json
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\bin\Debug\netcoreapp2.2\Level1.Entities.dll
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\bin\Debug\netcoreapp2.2\Level1.Entities.pdb
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\obj\Debug\netcoreapp2.2\Level1.Entities.csprojAssemblyReference.cache
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\obj\Debug\netcoreapp2.2\Level1.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\obj\Debug\netcoreapp2.2\Level1.Entities.AssemblyInfo.cs
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\obj\Debug\netcoreapp2.2\Level1.Entities.dll
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.Entities\obj\Debug\netcoreapp2.2\Level1.Entities.pdb

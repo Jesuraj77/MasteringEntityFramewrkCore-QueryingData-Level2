@@ -1,0 +1,8 @@
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\bin\Debug\netcoreapp2.2\Level2.BusinessLayer.deps.json
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\bin\Debug\netcoreapp2.2\Level2.BusinessLayer.dll
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\bin\Debug\netcoreapp2.2\Level2.BusinessLayer.pdb
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.csprojAssemblyReference.cache
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.AssemblyInfoInputs.cache
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.AssemblyInfo.cs
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.dll
+E:\Shilpa\23-03-2020\Querying Data\Level2\Level1.BusinessLayer\obj\Debug\netcoreapp2.2\Level2.BusinessLayer.pdb

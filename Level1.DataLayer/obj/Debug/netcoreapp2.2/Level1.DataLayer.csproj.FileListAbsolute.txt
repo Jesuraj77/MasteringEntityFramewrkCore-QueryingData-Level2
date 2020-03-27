@@ -1,0 +1,11 @@
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\bin\Debug\netcoreapp2.2\Level1.DataLayer.deps.json
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\bin\Debug\netcoreapp2.2\Level1.DataLayer.dll
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\bin\Debug\netcoreapp2.2\Level1.DataLayer.pdb
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\bin\Debug\netcoreapp2.2\Level1.Entities.dll
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\bin\Debug\netcoreapp2.2\Level1.Entities.pdb
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\obj\Debug\netcoreapp2.2\Level1.DataLayer.csprojAssemblyReference.cache
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\obj\Debug\netcoreapp2.2\Level1.DataLayer.AssemblyInfoInputs.cache
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\obj\Debug\netcoreapp2.2\Level1.DataLayer.AssemblyInfo.cs
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\obj\Debug\netcoreapp2.2\Level1.DataLayer.csproj.CopyComplete
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\obj\Debug\netcoreapp2.2\Level1.DataLayer.dll
+E:\Shilpa\23-03-2020\Querying Data\Level1\Level1.DataLayer\obj\Debug\netcoreapp2.2\Level1.DataLayer.pdb
